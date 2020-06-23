@@ -1,5 +1,6 @@
 # Freitag 🎒 
-This is a personal exercise of [website re-design](https://wondasom.github.io/projectFreitag/freitag/).
+This is a personal exercise of Freitag themed [website re-design](https://wondasom.github.io/projectFreitag/freitag/).
+You can check the design details [here](https://www.behance.net/gallery/90386701/Web-%28Freitag%29)
 
 
 
